@@ -10,8 +10,8 @@ class PendaftaranLomba extends Model
     use HasFactory;
 
     protected $fillable = [
-        'user_id',
-        'lomba_id',
+        'userid',
+        'lombaid',
         'status',
         'catatan'
     ];

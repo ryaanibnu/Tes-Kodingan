@@ -29,6 +29,6 @@ class Mahasiswa extends Model
 
     public function editProfil()
     {
-        // Implementation for editing profile
+        // ini kalo ada fitur edit profil
     }
 } 
